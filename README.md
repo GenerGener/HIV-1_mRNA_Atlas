@@ -1,6 +1,6 @@
 # HIV-1_mRNA_Atlas
 
-HIV-1 M B NL4-3 mRNA Atlas v1; blat[^1] on 21 queries (MZ242719.1_cds_UED13366.1_1, MZ242719.1_cds_UED13367.1_2, ...). Includes cPPT and nef PPT as off-target blat hits. Source: GenBank:MZ242719.1.
+HIV-1 M B NL4-3 mRNA Atlas v1; blat[^1] on 21 queries (MZ242719.1_cds_UED13366.1_1, MZ242719.1_cds_UED13367.1_2, ...). Includes cPPT and nef PPT as off-target blat hits. Source: [GenBank:MZ242719.1](https://www.ncbi.nlm.nih.gov/nuccore/MZ242719.1/).
 
 # Usage
 
