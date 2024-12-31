@@ -4,7 +4,7 @@ HIV-1 M B NL4-3 mRNA Atlas v1; blat[^1] on 21 queries (MZ242719.1_cds_UED13366.1
 
 # Usage
 
-Available from the [UCSC Genome Browser Public Session Landing Page](https://genome.ucsc.edu/cgi-bin/hgPublicSessions?hgsid=2408999235_6Poc6QfCmUcyIc8M7V7iJCFDMI2v) 
+Available from the [UCSC Genome Browser Public Session Landing Page](https://genome.ucsc.edu/cgi-bin/hgPublicSessions?hgsid=2408999235_6Poc6QfCmUcyIc8M7V7iJCFDMI2v).
 
 Search "MZ242719" for two sessions.
 #
