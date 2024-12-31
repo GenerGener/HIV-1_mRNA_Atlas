@@ -2,9 +2,7 @@
 
 HIV-1 M B NL4-3 mRNA Atlas v1; blat[^1] on 21 queries (MZ242719.1_cds_UED13366.1_1, MZ242719.1_cds_UED13367.1_2, ...). Includes cPPT and nef PPT as off-target blat hits. Source: [GenBank:MZ242719.1](https://www.ncbi.nlm.nih.gov/nuccore/MZ242719.1/).
 
-If using the NL4-3 mRNA Atlas v1, please cite: 
-1.) Gener, A. R. (2022). Anticipating HIV drug resistance with appropriate sequencing methods. AIDS, 36(1). https://journals.lww.com/aidsonline/Fulltext/2022/01010/Anticipating_HIV_drug_resistance_with_appropriate.16.aspx. 
-2.) Gener, A. R., Klotman, P. E., Danesh, F. R., Cijiang He, J., Kimata, J. T., Lupski, J. R., & Ross, M. J. (2021). HIV informatics. Baylor College of Medicine Integrative Molecular and Biomedical Sciences Graduate Program.
+If using the NL4-3 mRNA Atlas v1, please cite it [^1][^2].
 
 # Usage
 
@@ -17,7 +15,7 @@ Search "MZ242719" for two sessions.
 
 **Description:** HIV-1 strain NL4-3 mRNA Atlas v1 mRNA transcript models open reading frames (ORFs) mapped onto HIV-1 RefSeq:NC_001802.1. 
 
-Transcript model method: Transcript models were downloaded as FASTA from GenBank:MZ242719.1-MZ242757.1 were blat (sic) against NC_001802.1 (GCF_000864765.1) in UCSC. Max number of sequences for blat = 25, so n=38 was partitioned into two blat runs, sorted by accession. These were viewed as a track in UCSC Genome Browser. MZ242719.1, MZ242720.1, MZ242721.1 are models of unspliced, singly-spliced, and doubly-spliced. "Singly-spliced" and "doubly-spliced" have been commonly used in the literature, but without basis in explicitly defined mRNA models. As you can see, HIV-1 NL4-3 splice isoforms supported by high-quality long reads and reanalysis are more complicated that previously understood. Open reading frames (ORFs) method: Coding features were downloaded as FASTA from GenBank:MZ242719.1 were blat (sic) against NC_001802.1 (GCF_000864765.1) in UCSC. These were viewed as a track in UCSC Genome Browser. ORF note 1: Exact ranges for GENER10 and GENER12 differ because of apparent sequence differences at their start codons. This is because blat did not match the small leading exon 5'-ATGGCAG-3' which spans NC_001802.1:4599-4605. This exon is supported by long-read mRNA of NL4-3 infected and transfected cells. ORF note 2: Small regions of homology overlap polypurine tracts important for viral replication. These are not ORFs. ORF note 3: MZ242719.1 (NL4-3) and NC_001802.1 are both HIV-1 subgroup B viruses. NL4-3 is a synthetic chimeric virus reviewed elsewhere. However, it is the most common strain of HIV used in laboratory settings. Both are modeled as "R-U5-HIV-U3-R". 
+**Transcript model method:** Transcript models were downloaded as FASTA from GenBank:MZ242719.1-MZ242757.1 were blat (sic) against NC_001802.1 (GCF_000864765.1) in UCSC. Max number of sequences for blat = 25, so n=38 was partitioned into two blat runs, sorted by accession. These were viewed as a track in UCSC Genome Browser. MZ242719.1, MZ242720.1, MZ242721.1 are models of unspliced, singly-spliced, and doubly-spliced. "Singly-spliced" and "doubly-spliced" have been commonly used in the literature, but without basis in explicitly defined mRNA models. As you can see, HIV-1 NL4-3 splice isoforms supported by high-quality long reads and reanalysis are more complicated that previously understood. Open reading frames (ORFs) method: Coding features were downloaded as FASTA from GenBank:MZ242719.1 were blat (sic) against NC_001802.1 (GCF_000864765.1) in UCSC. These were viewed as a track in UCSC Genome Browser. ORF note 1: Exact ranges for GENER10 and GENER12 differ because of apparent sequence differences at their start codons. This is because blat did not match the small leading exon 5'-ATGGCAG-3' which spans NC_001802.1:4599-4605. This exon is supported by long-read mRNA of NL4-3 infected and transfected cells. ORF note 2: Small regions of homology overlap polypurine tracts important for viral replication. These are not ORFs. ORF note 3: MZ242719.1 (NL4-3) and NC_001802.1 are both HIV-1 subgroup B viruses. NL4-3 is a synthetic chimeric virus reviewed elsewhere. However, it is the most common strain of HIV used in laboratory settings. Both are modeled as "R-U5-HIV-U3-R". 
 
 **Author:** "gener"
 
@@ -47,4 +45,5 @@ Note fuzzy mapping of NL4-3 transcriptomic info onto another HIV-1 M B genome (R
 <img width="1532" alt="Screenshot 2024-12-30 at 7 20 08 PM" src="https://github.com/user-attachments/assets/52c33b13-5aae-4630-b8f0-699ee97dab85" />
 
 [^1]: Kent WJ. BLAT--the BLAST-like alignment tool. Genome Res. 2002 Apr;12(4):656-64. doi: 10.1101/gr.229202. PMID: 11932250; PMCID: PMC187518.
-
+[^2]: Gener, A. R. (2022). Anticipating HIV drug resistance with appropriate sequencing methods. AIDS, 36(1). https://journals.lww.com/aidsonline/Fulltext/2022/01010/Anticipating_HIV_drug_resistance_with_appropriate.16.aspx. 
+[^3]: Gener, A. R., Klotman, P. E., Danesh, F. R., Cijiang He, J., Kimata, J. T., Lupski, J. R., & Ross, M. J. (2021). HIV informatics. Baylor College of Medicine Integrative Molecular and Biomedical Sciences Graduate Program.
