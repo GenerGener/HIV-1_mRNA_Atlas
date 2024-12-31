@@ -18,9 +18,13 @@ Search "MZ242719" for two sessions.
 **Description:** HIV-1 strain NL4-3 mRNA Atlas v1 mRNA transcript models open reading frames (ORFs) mapped onto HIV-1 RefSeq:NC_001802.1. 
 
 Transcript model method: Transcript models were downloaded as FASTA from GenBank:MZ242719.1-MZ242757.1 were blat (sic) against NC_001802.1 (GCF_000864765.1) in UCSC. Max number of sequences for blat = 25, so n=38 was partitioned into two blat runs, sorted by accession. These were viewed as a track in UCSC Genome Browser. MZ242719.1, MZ242720.1, MZ242721.1 are models of unspliced, singly-spliced, and doubly-spliced. "Singly-spliced" and "doubly-spliced" have been commonly used in the literature, but without basis in explicitly defined mRNA models. As you can see, HIV-1 NL4-3 splice isoforms supported by high-quality long reads and reanalysis are more complicated that previously understood. Open reading frames (ORFs) method: Coding features were downloaded as FASTA from GenBank:MZ242719.1 were blat (sic) against NC_001802.1 (GCF_000864765.1) in UCSC. These were viewed as a track in UCSC Genome Browser. ORF note 1: Exact ranges for GENER10 and GENER12 differ because of apparent sequence differences at their start codons. This is because blat did not match the small leading exon 5'-ATGGCAG-3' which spans NC_001802.1:4599-4605. This exon is supported by long-read mRNA of NL4-3 infected and transfected cells. ORF note 2: Small regions of homology overlap polypurine tracts important for viral replication. These are not ORFs. ORF note 3: MZ242719.1 (NL4-3) and NC_001802.1 are both HIV-1 subgroup B viruses. NL4-3 is a synthetic chimeric virus reviewed elsewhere. However, it is the most common strain of HIV used in laboratory settings. Both are modeled as "R-U5-HIV-U3-R". 
+
 **Author:** "gener"
+
 **Session Name:** GCF_000864765.1_HIV-1_mRNA_Atlas_v1_blat_mRNA+ORFs
+
 **Genome Assembly:** hub_3521609_GCF_000864765.1
+
 **Creation Date:** 2022-09-21
 
 Note fuzzy mapping of NL4-3 transcriptomic info onto another HIV-1 M B genome (RefSeq).
@@ -31,9 +35,13 @@ Note fuzzy mapping of NL4-3 transcriptomic info onto another HIV-1 M B genome (R
 ## Session 2: mRNA model open reading frames mapped onto an HIV reference genome with blat (RefSeq:NC_001802.1)
 
 **Description:** HIV-1 strain NL4-3 mRNA Atlas v1 open reading frames (ORFs) mapped onto HIV-1 RefSeq:NC_001802.1. Author: Alejandro Gener. Contact: itspronouncedhenner@gmail.com Method: Coding features were downloaded as FASTA from GenBank:MZ242719.1 were blat (sic) against NC_001802.1 (GCF_000864765.1) in UCSC. These were viewed as a track in UCSC Genome Browser. Note 1: Exact ranges for GENER10 and GENER12 differ because of apparent sequence differences at their start codons. This is because blat did not match the small leading exon 5'-ATGGCAG-3' which spans NC_001802.1:4599-4605. This exon is supported by long-read mRNA of NL4-3 infected and transfected cells. Note 2: Small regions of homology overlap polypurine tracts important for viral replication. These are not ORFs. Note 3: MZ242719.1 (NL4-3) and NC_001802.1 are both HIV-1 subgroup B viruses. NL4-3 is a synthetic chimeric virus reviewed elsewhere. However, it is the most common strain of HIV used in laboratory settings. Both are modeled as "R-U5-HIV-U3-R". 
+
 **Author:** "gener"
+
 **Session Name:** GCF_000864765.1_HIV-1_mRNA_Atlas_v1_blat_ORFs
+
 **Genome Assembly:** hub_3521609_GCF_000864765.1
+
 **Creation Date:** 2022-09-20
 
 <img width="1532" alt="Screenshot 2024-12-30 at 7 20 08 PM" src="https://github.com/user-attachments/assets/52c33b13-5aae-4630-b8f0-699ee97dab85" />
