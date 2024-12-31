@@ -45,5 +45,7 @@ Note fuzzy mapping of NL4-3 transcriptomic info onto another HIV-1 M B genome (R
 <img width="1532" alt="Screenshot 2024-12-30 at 7 20 08 PM" src="https://github.com/user-attachments/assets/52c33b13-5aae-4630-b8f0-699ee97dab85" />
 
 [^1]: Kent WJ. BLAT--the BLAST-like alignment tool. Genome Res. 2002 Apr;12(4):656-64. doi: 10.1101/gr.229202. PMID: 11932250; PMCID: PMC187518.
-[^2]: Gener, A. R. (2022). Anticipating HIV drug resistance with appropriate sequencing methods. AIDS, 36(1). https://journals.lww.com/aidsonline/Fulltext/2022/01010/Anticipating_HIV_drug_resistance_with_appropriate.16.aspx. 
+
+[^2]: Gener, A. R. (2022). Anticipating HIV drug resistance with appropriate sequencing methods. AIDS, 36(1). https://journals.lww.com/aidsonline/Fulltext/2022/01010/Anticipating_HIV_drug_resistance_with_appropriate.16.aspx.
+
 [^3]: Gener, A. R., Klotman, P. E., Danesh, F. R., Cijiang He, J., Kimata, J. T., Lupski, J. R., & Ross, M. J. (2021). HIV informatics. Baylor College of Medicine Integrative Molecular and Biomedical Sciences Graduate Program.
