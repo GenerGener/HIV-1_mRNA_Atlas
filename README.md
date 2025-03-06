@@ -6,11 +6,7 @@ If using the NL4-3 mRNA Atlas v1, please cite it[^2][^3].
 
 # Previous presentations
 
-[LC2021 Alejandro Gener v1.pdf](https://github.com/user-attachments/files/19116459/LC2021.Alejandro.Gener.v1.pdf)
-
-<iframe src="https://docs.github.com/content/github/managing-files-in-a-repository/working-with-non-code-files/rendering-pdf-documents?url=https://github.com/user-attachments/files/19116459/LC2021.Alejandro.Gener.v1.pdf?raw=true" width="100%" height="500px"></iframe>
-
-[View LC2021 Alejandro Gener PDF](https://docs.github.com/content/github/managing-files-in-a-repository/working-with-non-code-files/rendering-pdf-documents?url=https://github.com/user-attachments/files/19116459/LC2021.Alejandro.Gener.v1.pdf)
+![LC2021 Alejandro Gener v1](https://github.com/user-attachments/assets/906275d6-c113-4215-8def-a3cba459f47e)
 
 # Usage
 
