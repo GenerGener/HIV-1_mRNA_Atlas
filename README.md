@@ -10,6 +10,8 @@ If using the NL4-3 mRNA Atlas v1, please cite it[^2][^3].
 
 <iframe src="https://docs.github.com/content/github/managing-files-in-a-repository/working-with-non-code-files/rendering-pdf-documents?url=https://github.com/user-attachments/files/19116459/LC2021.Alejandro.Gener.v1.pdf?raw=true" width="100%" height="500px"></iframe>
 
+[View LC2021 Alejandro Gener PDF](https://docs.github.com/content/github/managing-files-in-a-repository/working-with-non-code-files/rendering-pdf-documents?url=https://github.com/user-attachments/files/19116459/LC2021.Alejandro.Gener.v1.pdf)
+
 # Usage
 
 Available from the [UCSC Genome Browser Public Session Landing Page](https://genome.ucsc.edu/cgi-bin/hgPublicSessions?hgsid=2408999235_6Poc6QfCmUcyIc8M7V7iJCFDMI2v).
