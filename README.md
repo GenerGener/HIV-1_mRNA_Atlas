@@ -10,6 +10,7 @@ If using the NL4-3 mRNA Atlas v1, please cite it[^2][^3].
 
 ![LC2021 Alejandro Gener v1](https://github.com/user-attachments/assets/906275d6-c113-4215-8def-a3cba459f47e)
 
+[IAS-2021_e-poster_template_portrait v4 reduced.pdf](https://github.com/user-attachments/files/19116817/IAS-2021_e-poster_template_portrait.v4.reduced.pdf)
 
 
 # Usage
