@@ -4,7 +4,7 @@ HIV-1 M B NL4-3 mRNA Atlas v1; blat[^1] on 21 queries (MZ242719.1_cds_UED13366.1
 
 If using the NL4-3 mRNA Atlas v1, please cite it[^2][^3].
 
-# Most Recent Presentatio: 7 March 2025, 2025 Palm Springs Symposium on HIV/AIDS
+# Most Recent Presentation: 7 March 2025, 2025 Palm Springs Symposium on HIV/AIDS
 
 ![PalmSpringHIV Gener v4](https://github.com/user-attachments/assets/4ae9a1d1-930a-4484-885d-f77c68dceec7)
 
